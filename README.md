@@ -15,8 +15,8 @@ all projects in three certificates litesd here
 [Build a Personal Portfolio Webpage ](https://codepen.io/shannonZhong123/pen/ZEwWVpO )<br>
 
 ### JavaScript Algorithms and Data Structures 
-[Palindrome Checker](https://codepen.io/shannonZhong123/pen/abXZjbr?editors=1011)
-[Roman Numeral Converter](https://codepen.io/shannonZhong123/pen/vYbKaEG?editors=0011 )
-[Caesars Cipher](https://codepen.io/shannonZhong123/pen/wvNWxaq?editors=0010)
-[Telephone Number Validator](https://codepen.io/shannonZhong123/pen/oNmLMXg?editors=0011)
-[Cash Register](https://codepen.io/shannonZhong123/pen/LYqZBpE?editors=0011)
+[Palindrome Checker](https://codepen.io/shannonZhong123/pen/abXZjbr?editors=1011)<br>
+[Roman Numeral Converter](https://codepen.io/shannonZhong123/pen/vYbKaEG?editors=0011 )<br>
+[Caesars Cipher](https://codepen.io/shannonZhong123/pen/wvNWxaq?editors=0010)<br>
+[Telephone Number Validator](https://codepen.io/shannonZhong123/pen/oNmLMXg?editors=0011)<br>
+[Cash Register](https://codepen.io/shannonZhong123/pen/LYqZBpE?editors=0011)<br>
